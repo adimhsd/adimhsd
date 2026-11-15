@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 Tentang Saya (*Secuil Catatan Dosen Sontoloyo*)
+## 👨‍💻 Tentang Saya (*Catatan Dosen Sontoloyo*)
 
 Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktisi teknologi dari Kuningan, Jawa Barat, Indonesia.
 
@@ -156,10 +156,6 @@ Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktis
 <div align="center">
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adimhsd&theme=tokyonight" alt="GitHub Profile Summary" />
-  </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adimhsd&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adimhsd&theme=tokyonight" alt="Top Languages by Repo" />
   </p>
   <p>
     <img src="https://streak-stats.demolab.com?user=adimhsd&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
