@@ -6,7 +6,7 @@
   <br />
 
   <a href="https://adi-muhamad.my.id">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Lecturer+S1+Bisnis+Digital+%40+FEB+UNIKU;Founder+%40+PT+Digital+Pustaka+Karya+Indonesia;Lecturer+by+Day%2C+Coder+by+Night;Building+Practical+AI%2C+RAG%2C+Data+Mining+%26+Web+Systems;A+sontoloy+human+being%2C+nothing+more+nothing+less" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Lecturer+S1+Bisnis+Digital+%40+FEB+UNIKU;Founder+%40+PT+Digital+Pustaka+Karya+Indonesia;Lecturer+by+Day%2C+Coder+by+Night;System+Builder+%26+Automation;Building+Practical+AI%2C+RAG%2C+Data+Mining+%26+Web+Systems;A+sontoloy+human+being%2C+nothing+more+nothing+less" alt="Typing SVG" />
   </a>
 
   <br />
@@ -56,6 +56,7 @@ Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktis
     <td width="50%" valign="top">
       <h4>🔬 Bidang Keahlian & Riset</h4>
       <ul>
+        <li>System Builder &amp; Automation</li>
         <li>Artificial Intelligence (LLM, RAG, AI Agents)</li>
         <li>Machine Learning &amp; Data Mining</li>
         <li>Big Data Analytics &amp; Business Intelligence</li>
