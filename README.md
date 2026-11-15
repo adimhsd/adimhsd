@@ -59,10 +59,8 @@ Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktis
         <li>Artificial Intelligence (LLM, RAG, AI Agents)</li>
         <li>Machine Learning &amp; Data Mining</li>
         <li>Big Data Analytics &amp; Business Intelligence</li>
-        <li>Sistem Informasi Manajemen</li>
-        <li>Decision Support System (MOORA, MABAC)</li>
-        <li>Enterprise Architecture (TOGAF ADM)</li>
-        <li>Cloud &amp; Self-Hosted Home Server Lab</li>
+        <li>Decision Support System (DSS)</li>
+        <li>Cloud &amp; Self-Hosted Infrastructure</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -72,9 +70,8 @@ Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktis
         <li>Big Data Analytics &amp; Data Mining</li>
         <li>Pemrograman Python</li>
         <li>Pemrograman Aplikasi Mobile</li>
+        <li>Literasi Teknologi</li>
         <li>Sistem Informasi Manajemen</li>
-        <li>Pengembangan Sistem Informasi</li>
-        <li>Financial Technology (FinTech)</li>
       </ul>
     </td>
   </tr>
@@ -123,56 +120,6 @@ Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktis
 </p>
 
 </div>
-
----
-
-## 🏢 Ekosistem Bisnis — PT Digital Pustaka Karya Indonesia
-
-Mendukung akselerasi literasi akademik, publikasi ilmiah, rekayasa perangkat lunak, dan peningkatan kapabilitas digital melalui empat pilar layanan di **[pustakakarya-id.web.app](https://pustakakarya-id.web.app/)**:
-
-| Unit Bisnis | Fokus Layanan | Portal |
-| :--- | :--- | :--- |
-| 📖 **Pustaka Karya Publishing** | Penerbitan buku fisik & digital ber-ISBN untuk dosen, peneliti, guru, mahasiswa, dan umum | [buku.pustakakarya.id](https://buku.pustakakarya.id) |
-| 📰 **Manajemen OJS & Jurnal** | Pengelolaan jurnal ilmiah berbasis Open Journal Systems (OJS) & publikasi PKM | [jurnal.pustakakarya.id](https://jurnal.pustakakarya.id) |
-| 💻 **Pengembangan Sistem & AI** | Jasa pengembangan aplikasi web, sistem informasi kampus/bisnis, dashboard, dan solusi AI | [dev.pustakakarya.id](https://dev.pustakakarya.id) |
-| 🎓 **Pustaka Karya Academy** | Pelatihan intensif Data Science, AI, Machine Learning, pemrograman, dan transformasi digital | [academy.pustakakarya.id](https://academy.pustakakarya.id) |
-
----
-
-## 🚀 Portofolio Proyek Unggulan & Home AI Lab
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://exam.adi-muhamad.my.id" target="_blank">Exam AI System</a></h3>
-      <p>Platform ujian berbasis web dengan pembuatan soal otomatis berbasis AI, koreksi lembar jawaban OCR, dan analitik performa mahasiswa (<em>Next.js, FastAPI, Celery, PostgreSQL</em>).</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://chat.adi-muhamad.my.id" target="_blank">ChatBot AI Sontoloyo (RAG)</a></h3>
-      <p>Asisten percakapan berbasis <em>Retrieval-Augmented Generation (RAG)</em> dengan PostgreSQL <code>pgvector</code> yang menjawab pertanyaan berdasarkan basis pengetahuan pribadi &amp; akademik.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/adimhsd/cdl-guru" target="_blank">CDL-Guru Adaptive AI</a></h3>
-      <p>Sistem <em>AI-Based Adaptive Learning</em> untuk personalisasi bias informasi dalam penguatan <em>Critical Digital Literacy (CDL)</em> guru — bagian dari Hibah Penelitian Kompetitif Nasional PFR BIMA 2026.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/adimhsd/catering-ab" target="_blank">Sistem Catering Al-Bahjah (PWA)</a></h3>
-      <p>Sistem Informasi Pengadaan Bahan Makanan Catering Pondok Pesantren Al-Bahjah dengan digitalisasi nota pembelian dan laporan otomatis Excel &amp; PDF berbasis Progressive Web App.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://github.com/adimhsd/sambal-tempongburial" target="_blank">E-Catalogue AI &amp; Digitalisasi UMKM</a></h3>
-      <p>Pengembangan sistem E-Catalogue berbasis AI dengan algoritma <em>Content-Based Filtering</em> untuk personalisasi pemasaran digital serta portal digitalisasi UMKM lokal.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/adimhsd" target="_blank">Home AI Lab (HomeServerAdi)</a></h3>
-      <p>Infrastruktur klaster server mandiri berbasis Ubuntu Linux, Docker, Nginx, dan Cloudflare Zero Trust Tunnel untuk eksperimen LLM lokal, AI Agent, dan layanan edukasi kampus.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
