@@ -169,18 +169,9 @@ Halo! Saya **Adi Muhamad Muhsidi, S.SI., M.Kom.**, seorang akademisi dan praktis
 
 ---
 
-## 📈 Statistik GitHub & Contribution Snake
+## 🐍 Aktivitas & Kontribusi GitHub
 
 <div align="center">
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adimhsd&theme=tokyonight" alt="GitHub Profile Summary" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=adimhsd&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </p>
-
-  <br />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adimhsd/adimhsd/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adimhsd/adimhsd/output/github-contribution-grid-snake.svg" />
