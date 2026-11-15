@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Adi Muhamad Muhsidi, S.SI., M.Kom. — Dosen S1 Bisnis Digital UNIKU &amp; Founder PT Digital Pustaka Karya Indonesia">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+
+    <radialGradient id="glowCyan" cx="18%" cy="22%" r="48%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowIndigo" cx="84%" cy="78%" r="52%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.85"/>
+      <stop offset="75%" stop-color="#818cf8" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="72%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <pattern id="gridPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-width="0.6" stroke-opacity="0.1"/>
+    </pattern>
+
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1200" height="320" rx="16" ry="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Background -->
+    <rect width="1200" height="320" fill="url(#bgGrad)"/>
+    <rect width="1200" height="320" fill="url(#gridPattern)"/>
+    <rect width="1200" height="320" fill="url(#glowCyan)"/>
+    <rect width="1200" height="320" fill="url(#glowIndigo)"/>
+
+    <!-- Decorative Right Geometric Code Accent -->
+    <g opacity="0.22" stroke="#38bdf8" stroke-width="1.2" fill="none">
+      <circle cx="1055" cy="155" r="95" stroke-dasharray="6 6"/>
+      <circle cx="1055" cy="155" r="64" stroke="#818cf8"/>
+      <circle cx="1055" cy="155" r="32" stroke="#38bdf8" stroke-dasharray="3 4"/>
+    </g>
+    <g opacity="0.55" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="13" fill="#38bdf8">
+      <text x="990" y="150">&lt;AI / RAG&gt;</text>
+      <text x="1005" y="170" fill="#a5b4fc" font-size="11">@adimhsd</text>
+    </g>
+
+    <!-- Top & Bottom Accent Lines -->
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accentLine)"/>
+    <rect x="0" y="317" width="1200" height="3" fill="url(#accentLine)"/>
+
+    <!-- Top Badge Pill -->
+    <g transform="translate(56, 38)">
+      <rect x="0" y="0" width="560" height="30" rx="15" fill="#0ea5e9" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="1"/>
+      <text x="18" y="20" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="12" font-weight="600" letter-spacing="0.8" fill="#38bdf8">
+        ⚡ SECUIL CATATAN DOSEN SONTOLOYO • LECTURER BY DAY, CODER BY NIGHT
+      </text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="56" y="128" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-0.6" fill="url(#titleGrad)">
+      Adi Muhamad Muhsidi, S.SI., M.Kom.
+    </text>
+
+    <!-- Subtitle Roles -->
+    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">
+      <circle cx="62" cy="166" r="4" fill="#38bdf8"/>
+      <text x="76" y="172">
+        Dosen S1 Bisnis Digital — <tspan fill="#f8fafc" font-weight="600">Universitas Kuningan (UNIKU)</tspan>
+      </text>
+
+      <circle cx="62" cy="198" r="4" fill="#818cf8"/>
+      <text x="76" y="204">
+        Founder — <tspan fill="#f8fafc" font-weight="600">PT Digital Pustaka Karya Indonesia</tspan>
+      </text>
+    </g>
+
+    <!-- Bottom Highlight Tags -->
+    <g transform="translate(56, 244)" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="12.5" font-weight="600">
+      <rect x="0" y="0" width="142" height="32" rx="8" fill="#1e293b" fill-opacity="0.9" stroke="#38bdf8" stroke-opacity="0.4"/>
+      <text x="16" y="20" fill="#7dd3fc">AI &amp; LLM / RAG</text>
+
+      <rect x="156" y="0" width="234" height="32" rx="8" fill="#1e293b" fill-opacity="0.9" stroke="#818cf8" stroke-opacity="0.4"/>
+      <text x="172" y="20" fill="#c7d2fe">Data Mining &amp; Machine Learning</text>
+
+      <rect x="404" y="0" width="238" height="32" rx="8" fill="#1e293b" fill-opacity="0.9" stroke="#34d399" stroke-opacity="0.4"/>
+      <text x="420" y="20" fill="#6ee7b7">Sistem Informasi Manajemen</text>
+
+      <rect x="656" y="0" width="208" height="32" rx="8" fill="#1e293b" fill-opacity="0.9" stroke="#fbbf24" stroke-opacity="0.4"/>
+      <text x="672" y="20" fill="#fde68a">Self-Hosted Home AI Lab</text>
+    </g>
+
+    <!-- Border Frame -->
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="16" ry="16" fill="none" stroke="#334155" stroke-width="1"/>
+  </g>
+</svg>
